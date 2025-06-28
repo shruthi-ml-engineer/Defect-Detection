@@ -1,7 +1,7 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { motion } from 'framer-motion';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from './ui/tabs';
-import { Copy, Check, Play, Download } from 'lucide-react';
+import { Copy, Check, Download } from 'lucide-react';
 
 const CodeShowcase = () => {
   const [copiedCode, setCopiedCode] = useState<string | null>(null);

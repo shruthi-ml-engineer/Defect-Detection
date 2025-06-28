@@ -1,4 +1,4 @@
-import React, { useState, useCallback } from 'react';
+import { useState, useCallback } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { useDropzone } from 'react-dropzone';
 import { 
@@ -7,7 +7,6 @@ import {
   Play, 
   CheckCircle, 
   AlertTriangle,
-  X,
   Download,
   Zap
 } from 'lucide-react';
