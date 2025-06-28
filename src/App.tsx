@@ -30,7 +30,6 @@ function App() {
         <Footer />
       </motion.div>
     </div>
-  )
   );
 }
 
