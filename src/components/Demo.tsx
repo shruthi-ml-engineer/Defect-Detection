@@ -7,8 +7,7 @@ import {
   Play, 
   CheckCircle, 
   AlertTriangle,
-  Download,
-  Zap
+  Download
 } from 'lucide-react';
 
 const Demo = () => {

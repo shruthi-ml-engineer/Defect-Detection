@@ -1,10 +1,6 @@
-import React from 'react';
 import { motion } from 'framer-motion';
 import { 
   Eye, 
-  Cpu, 
-  Gauge, 
-  Shield, 
   Layers, 
   BarChart3,
   Zap,
